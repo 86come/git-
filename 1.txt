@@ -1,6 +1,10 @@
 asdasdas
-ssssss
+<<<<<<<HEAD
+ssssssssssss
 
+=======
+aaaaaaaa
+>>>>>>> ji
 
 asdasdasdasdasdasd
 
